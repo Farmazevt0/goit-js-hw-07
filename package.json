@@ -1,0 +1,19 @@
+{
+    "name": "homework6",
+    "version": "1.0.0",
+    "description": "Homework-46",
+    "scripts": {
+      "push": "git add .; git commit -m 'update'; git push;"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://farmazevt0.github.io/goit-js-hw-07/"
+    },
+    "keywords": [],
+    "author": "Oleksii Kavderko",
+    "license": "ISC",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "https://github.com/Farmazevt0/goit-js-hw-07/blob/main/README.md"
+  }
